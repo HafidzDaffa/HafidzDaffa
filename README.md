@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HafidzDaffa
-- 👀 I’m interested in Data Science and Web Programming
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Django, Python, Java
 - 📫 How to reach me, email : daffa.hafidz321@gmail.com
 
