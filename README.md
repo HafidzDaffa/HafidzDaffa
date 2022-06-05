@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HafidzDaffa
-- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning 
 - 📫 How to reach me, email : daffa.hafidz321@gmail.com
 
